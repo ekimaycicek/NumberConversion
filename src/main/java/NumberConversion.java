@@ -20,6 +20,7 @@ public class NumberConversion {
        
         Scanner scanner = new Scanner(System.in);
 
+
         System.out.println("Enter the value you want to convert:");
         double value = scanner.nextDouble();
 
