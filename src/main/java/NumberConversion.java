@@ -27,7 +27,6 @@ public class NumberConversion {
         String operator = scanner.next();
 
         double result;
-
         switch (operator) {
             case "mildenKme":
                 result = value * 1.60934;
