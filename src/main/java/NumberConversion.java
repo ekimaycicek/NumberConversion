@@ -64,6 +64,7 @@ public class NumberConversion {
             }
         }
 
+
         if (isItPrime) {
             System.out.println(number + "Prime number");
         } else {
