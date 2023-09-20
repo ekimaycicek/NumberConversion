@@ -47,7 +47,6 @@ public class NumberConversion {
 
 
 
-
         System.out.print("enter an integer");
         int number = scanner.nextInt();
 
